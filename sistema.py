@@ -141,5 +141,6 @@ def mostrar_filtros(filtro):
     if not encontrou:
         print(f"Nenhum aluno encontrado com a situação: {situacao_filtrada}.")
 
+print("Ricardo gostoso(?)")
 inicio()
 menu()
